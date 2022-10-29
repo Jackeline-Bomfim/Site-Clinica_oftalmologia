@@ -8,5 +8,5 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 - Tabelas
 
 ## Conteúdo
-Site simples sobre uma clínica de oftamologia, contendo sua descrição, tabela de preços com dias de atendimento de cada especialidade, localização, contatos e algumas informações sobre oftamologia que achei legal acresentar.
+Site simples sobre uma clínica de oftalmologia, contendo sua descrição, tabela de preços com dias de atendimento de cada especialidade, localização, contatos e algumas informações sobre oftamologia que achei legal acresentar.
 
